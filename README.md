@@ -13,8 +13,18 @@ Cyberbullying is a growing issue on social media platforms. The objective of thi
 
 ## 📁 Project Structure
 
-<pre><code>## 📁 Project Structure ``` Cyberbullying-Classification/ ├── CyberbullyingClassification.ipynb <- Colab notebook ├── README.md <- Project overview ├── data/ │ └── dataset.csv <- (Optional: Add if small/public) ├── models/ │ ├── LogisticRegression.pickle │ ├── RandomForest.pickle │ └── XGBoost.pickle └── requirements.txt <- Dependencies (optional) ``` </code></pre>
-
+```text
+Cyberbullying-Classification/
+├── CyberbullyingClassification.ipynb    # Colab notebook
+├── README.md                            # Project overview
+├── data/
+│   └── dataset.csv                      # (Optional: Add if small/public)
+├── models/
+│   ├── LogisticRegression.pickle
+│   ├── RandomForest.pickle
+│   └── XGBoost.pickle
+└── requirements.txt                     # Dependencies (optional)
+```
 
 ## 📊 Dataset
 
