@@ -20,10 +20,9 @@ Cyberbullying-Classification/
 ├── data/
 │   └── dataset.csv                      # (Optional: Add if small/public)
 ├── models/
-│   ├── LogisticRegression.pickle
-│   ├── RandomForest.pickle
-│   └── XGBoost.pickle
-└── requirements.txt                     # Dependencies (optional)
+    ├── LogisticRegression.pickle
+    ├── RandomForest.pickle
+    └── XGBoost.pickle
 ```
 
 ## 📊 Dataset
